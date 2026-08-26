@@ -1,0 +1,8 @@
+# Project exclude paths
+/target/
+config.properties
+out/
+*.class
+.idea/
+*.iml
+.DS_Store
