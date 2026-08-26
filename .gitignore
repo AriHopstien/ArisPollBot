@@ -1,6 +1,6 @@
 # Project exclude paths
 /target/
-config.properties
+#config.properties
 out/
 *.class
 .idea/
